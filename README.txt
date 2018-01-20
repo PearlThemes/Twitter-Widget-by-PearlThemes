@@ -31,7 +31,7 @@ Instructions for installing the Twitter by PearlThemes Plugin.
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.1.0 =
 
 * Tested plugin with WordPress 4.9.2 and PHP 7.2.1
 
