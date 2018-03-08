@@ -1,9 +1,9 @@
-=== Twitter Widget by PearlThemes ===
+=== Quick and Easy Twitter Widget ===
 Contributors: pearlthemes
 Tags: twitter, twitter tweets, twitter widget
 Requires at least: 3.0
-Tested up to: 4.9.2
-Stable tag: 4.9.2
+Tested up to: 4.9.4
+Stable tag: 4.9.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
